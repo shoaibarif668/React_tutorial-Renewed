@@ -1,0 +1,21 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+html {
+	font-size: 62.5%;
+}
+.heading_name {
+	color: aquamarine;
+	font-size: 5rem;
+	text-shadow: 0rem 0.2rem 0.4rem chartreuse;
+	font-weight: bold;
+	text-align: center;
+	margin: 5rem 0rem;
+	font-family: 'Josefin Sans', sans-serif;
+}
+.heading_img {
+	display: flex;
+	justify-content: center;
+}
